@@ -6,7 +6,7 @@
 <br>
 <br>
 <h4>→ Foto do site:</h4>
-<img height="60%" width="100%" src="https://github.com/FabricioKolling/Atividade-Avaliativa/assets/162700727/9274db8b-7106-4f64-b523-5afcb61ec52c">
+<img height="60%" width="100%" src="https://github.com/FabricioKolling/Atividade-Avaliativa/assets/162700727/7e88bb02-a069-456e-8b28-8eafb6349a96">
 <br>
 <h4>→ Codigo Html e Css:</h4>
-<img height="60%" width="100%" src="https://github.com/FabricioKolling/Atividade-Avaliativa/assets/162700727/2a7d1356-5e3f-484c-ad99-62e2458e16e8">
+<img height="60%" width="100%" src="https://github.com/FabricioKolling/Atividade-Avaliativa/assets/162700727/7ea1c94c-da5a-4db9-bbff-81f10addc9e6">
